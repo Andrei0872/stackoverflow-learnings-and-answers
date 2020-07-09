@@ -38,6 +38,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Angular observables never come to completion handler](https://stackoverflow.com/a/62259184/9632621) (+ the magic behind `ActivatedRoute`)
 * [Why RouterLink adds the input to the end of current URL in bracket](https://stackoverflow.com/a/62607924/9632621) (+ how `RouterLink` works)
 * [Angular lazy loaded module with child component default route](https://stackoverflow.com/a/62739986/9632621) (+ diff between relative and absolute redirects)
+* [Angular 8 Jasmine/Karma spyOn behavior questions](https://stackoverflow.com/a/62811473/9632621) (+ how spies work when working with custom decorators)
 
 ---
 
