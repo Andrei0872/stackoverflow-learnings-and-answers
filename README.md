@@ -40,6 +40,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Angular lazy loaded module with child component default route](https://stackoverflow.com/a/62739986/9632621) (+ diff between relative and absolute redirects)
 * [Angular 8 Jasmine/Karma spyOn behavior questions](https://stackoverflow.com/a/62811473/9632621) (+ how spies work when working with custom decorators)
 * [How to best handle multiple subscriptions to the same observable on the template?](https://stackoverflow.com/a/62829161/9632621) (+ how `ConnectableObservable` works, `share()`)
+* [Custom Angular FormField emitting event when configured not to](https://stackoverflow.com/a/62770069/9632621) (+ internals of `FormControl.setValue` & `CVA`)
 
 ---
 
