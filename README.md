@@ -41,6 +41,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Angular 8 Jasmine/Karma spyOn behavior questions](https://stackoverflow.com/a/62811473/9632621) (+ how spies work when working with custom decorators)
 * [How to best handle multiple subscriptions to the same observable on the template?](https://stackoverflow.com/a/62829161/9632621) (+ how `ConnectableObservable` works, `share()`)
 * [Custom Angular FormField emitting event when configured not to](https://stackoverflow.com/a/62770069/9632621) (+ internals of `FormControl.setValue` & `CVA`)
+* [Nested Routing in Angular](https://stackoverflow.com/a/62854244/9632621) (+ an explanation of `pathMatch: 'full'` option)
 
 ---
 
