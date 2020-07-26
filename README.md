@@ -103,6 +103,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Do i need to unsubscribe from a Promise that has been converted to an Observable with Observable.from()?](https://stackoverflow.com/a/62684636/9632621)
 * [Detect when a Subject has no more subscriptions](https://stackoverflow.com/a/62580184/9632621)
 * [RxJS cache and refresh with shareReplay](https://stackoverflow.com/a/62636142/9632621)
+* [With RXJS, how can I get an observable of keys pressed from the first press until the end of a time window?](https://stackoverflow.com/questions/63090683/with-rxjs-how-can-i-get-an-observable-of-keys-pressed-from-the-first-press-unti/63091173#63091173) (`share` and `buffer` use case)
 
 ---
 
