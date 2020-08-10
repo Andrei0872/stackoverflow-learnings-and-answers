@@ -107,6 +107,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [With RXJS, how can I get an observable of keys pressed from the first press until the end of a time window?](https://stackoverflow.com/questions/63090683/with-rxjs-how-can-i-get-an-observable-of-keys-pressed-from-the-first-press-unti/63091173#63091173) (`share` and `buffer` use case)
 * [NestJS interceptor - handle error inside .pipe()](https://stackoverflow.com/questions/63038134/nestjs-interceptor-handle-error-inside-pipe/63042489#63042489)
 * [Obsevables and async iterators](https://stackoverflow.com/a/62313389/9632621)
+* [Handling errors for replaying, long-living Observables](https://stackoverflow.com/a/63308687/9632621)
 
 ---
 
