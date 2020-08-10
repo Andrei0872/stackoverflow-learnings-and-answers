@@ -108,6 +108,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [NestJS interceptor - handle error inside .pipe()](https://stackoverflow.com/questions/63038134/nestjs-interceptor-handle-error-inside-pipe/63042489#63042489)
 * [Obsevables and async iterators](https://stackoverflow.com/a/62313389/9632621)
 * [Handling errors for replaying, long-living Observables](https://stackoverflow.com/a/63308687/9632621)
+* [Do subscriptions to rxjs Subjects cause memory leaks if not unsubscribed when the subject goes out of scope?](https://stackoverflow.com/a/63258734/9632621)
 
 ---
 
