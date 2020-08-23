@@ -44,6 +44,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Nested Routing in Angular](https://stackoverflow.com/a/62854244/9632621) (+ an explanation of `pathMatch: 'full'` option)
 * [Using formcontrol.setError() to propagate error to a custom control component](https://stackoverflow.com/questions/63078764/using-formcontrol-seterror-to-propagate-error-to-a-custom-control-component/63079391?noredirect=1#comment111589469_63079391)
 * [Handling errors for replaying, long-living Observables](https://stackoverflow.com/a/63308687/9632621)
+* [NgModuleFactoryLoader.load() is not able to find the module](https://stackoverflow.com/a/63409187/9632621) (+ details about `RouterLinkWithRef`'s implementation)
 
 ---
 
