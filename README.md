@@ -111,6 +111,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Obsevables and async iterators](https://stackoverflow.com/a/62313389/9632621)
 * [Handling errors for replaying, long-living Observables](https://stackoverflow.com/a/63308687/9632621)
 * [Do subscriptions to rxjs Subjects cause memory leaks if not unsubscribed when the subject goes out of scope?](https://stackoverflow.com/a/63258734/9632621)
+* [Non-strict sequences with redux-observable and RxJS](https://stackoverflow.com/a/63513016/9632621) (+ an interesting case for `windowWhen`)
 
 ---
 
