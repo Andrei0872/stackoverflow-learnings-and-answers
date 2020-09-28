@@ -114,6 +114,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [Non-strict sequences with redux-observable and RxJS](https://stackoverflow.com/a/63513016/9632621) (+ an interesting case for `windowWhen`)
 * [RxJs Marble testing concatMap with withLatestFrom](https://stackoverflow.com/a/63545403/9632621)
 * [How can I chain RxJS observable in a redux-observable epic?](https://stackoverflow.com/a/64059464/9632621) (+ a nice mix of `startWith` and `endWith`)
+* [rxjs retry with delay and multicast](https://stackoverflow.com/a/64097996/9632621)
 
 ---
 
