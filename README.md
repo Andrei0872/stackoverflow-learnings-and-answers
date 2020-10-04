@@ -116,6 +116,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [How can I chain RxJS observable in a redux-observable epic?](https://stackoverflow.com/a/64059464/9632621) (+ a nice mix of `startWith` and `endWith`)
 * [rxjs retry with delay and multicast](https://stackoverflow.com/a/64097996/9632621)
 * [Under the hood of `Observable.pipe`, `Observable.subscribe` and how `Subject.observers` array gets populated](https://stackoverflow.com/a/64120874/9632621)
+* [Pausable behavior with `multicast`](https://stackoverflow.com/a/64195208/9632621)
 
 ---
 
