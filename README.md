@@ -117,6 +117,7 @@ Interesting things I've learnt while answering Stack Overflow questions.
 * [rxjs retry with delay and multicast](https://stackoverflow.com/a/64097996/9632621)
 * [Under the hood of `Observable.pipe`, `Observable.subscribe` and how `Subject.observers` array gets populated](https://stackoverflow.com/a/64120874/9632621)
 * [Pausable behavior with `multicast`](https://stackoverflow.com/a/64195208/9632621)
+* [Rxjs multi file upload queue with retry and stop behavior](https://stackoverflow.com/a/64720962/9632621) (+ another interesting use case of `multicast`)
 
 ---
 
